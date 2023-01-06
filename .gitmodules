@@ -4,3 +4,6 @@
 [submodule "vsgExamples"]
 	path = vsgExamples
 	url = https://github.com/kannode/vsgExamples.git
+[submodule "vsgImGui"]
+	path = vsgImGui
+	url = https://github.com/kannode/vsgImGui.git
