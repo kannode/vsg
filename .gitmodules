@@ -7,3 +7,6 @@
 [submodule "vsgImGui"]
 	path = vsgImGui
 	url = https://github.com/kannode/vsgImGui.git
+[submodule "vsgXchange"]
+	path = vsgXchange
+	url = git@github.com:kannode/vsgXchange.git
