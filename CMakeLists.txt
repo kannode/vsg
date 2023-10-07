@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 project(myvulkan)
 add_subdirectory(VulkanSceneGraph)
-add_subdirectory(vsgImGui)
+#add_subdirectory(vsgImGui)
 add_subdirectory(vsgExamples)
-add_subdirectory(vsgXchange)
+#add_subdirectory(vsgXchange)
