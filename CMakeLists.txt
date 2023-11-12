@@ -5,4 +5,4 @@ add_subdirectory(vsgImGui)
 add_subdirectory(vsgXchange)
 
 #add_dependencies(vsgExamples VulkanSceneGraph vsgImGui vsgXchange)
-add_subdirectory(vsgExamples)
+#add_subdirectory(vsgExamples)
